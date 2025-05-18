@@ -1,16 +1,16 @@
 body {
   margin: 0;
-  padding: 0;
   background-color: white;
-  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 .message h1 {
-  font-size: 4rem;
-  color: black;
+  font-size: 10rem;
   text-align: center;
+  line-height: 1.1;
 }
